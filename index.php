@@ -18,7 +18,7 @@
    $feed = new SimplePie();
 
    // Set the default to my blog's RSS at first run
-   if ($_GET[feed] == "") { $_GET[feed]="http://uly5535.com"; }
+   if ($_GET[feed] == "") { $_GET[feed]="http://uly.me/feed"; }
 
    $feed->set_feed_url($_GET[feed]);
 
