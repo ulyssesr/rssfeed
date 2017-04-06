@@ -1,0 +1,38 @@
+body { 
+   font-family: 'Marcellus', serif;
+}
+#page { 
+   width: 60%; 
+   margin: 30px auto; 
+   padding: 20px; 
+   background-color: #e3e3e3; 
+}
+#feed a, a:active, a:hover, a:visited { 
+   color: #095695; 
+}
+#feed { 
+   margin-bottom: 15px;
+}
+a, a:active { 
+   color: #095695;
+}
+a:visited { 
+   color: #677c52;
+}
+img { 
+   max-width: 400px; 
+   height: auto; 
+   margin-bottom: 10px; 
+}
+.header { 
+   margin: 40px 10px;
+}
+.item { 
+   margin: 60px 10px; 
+}
+.item li { 
+   list-style-type: none;
+}
+.rssform { 
+   margin: 5px 0;
+}
