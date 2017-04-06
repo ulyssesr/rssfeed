@@ -1,20 +1,21 @@
 body { 
    font-family: 'Marcellus', serif;
+   background-color: #dddddd;
 }
 #page { 
    width: 60%; 
    margin: 30px auto; 
    padding: 20px; 
-   background-color: #e3e3e3; 
+   background-color: #ffffff; 
 }
 #feed a, a:active, a:hover, a:visited { 
-   color: #095695; 
+   color: #677c52; 
 }
 #feed { 
    margin-bottom: 15px;
 }
 a, a:active { 
-   color: #095695;
+   color: #677c52;
 }
 a:visited { 
    color: #677c52;
