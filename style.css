@@ -3,22 +3,32 @@ body {
   background-color: #dddddd; }
 
 #page {
+  background-color: #ffffff;
   width: 60%;
   margin: 30px auto;
-  padding: 20px;
-  background-color: #ffffff; }
+  padding: 20px; }
+  @media screen and (max-width: 1080px) {
+    #page {
+      width: 95%;
+      margin: 10px auto;
+      padding: 10px; } }
+  @media screen and (max-width: 640px) {
+    #page {
+      width: 99%;
+      margin: 5px auto;
+      padding: 5px; } }
 
 #feed a, a:active, a:hover, a:visited {
-  color: #677c52; }
+  color: #000099; }
 
 #feed {
   margin-bottom: 15px; }
 
 a, a:active {
-  color: #677c52; }
+  color: #000099; }
 
 a:visited {
-  color: #677c52; }
+  color: #000099; }
 
 img {
   max-width: 400px;
