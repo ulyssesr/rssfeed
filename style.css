@@ -7,16 +7,16 @@ body {
   width: 60%;
   margin: 30px auto;
   padding: 20px; }
-  @media screen and (max-width: 1080px) {
+  @media screen and (max-width: 1024px) {
     #page {
       width: 95%;
       margin: 10px auto;
       padding: 10px; } }
-  @media screen and (max-width: 640px) {
+  @media screen and (max-width: 760px) {
     #page {
       width: 99%;
-      margin: 5px auto;
-      padding: 5px; } }
+      margin: 10px auto;
+      padding: 10px; } }
 
 #feed a, a:active, a:hover, a:visited {
   color: #000099; }
