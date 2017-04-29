@@ -19,16 +19,26 @@ body {
       padding: 10px; } }
 
 #feed a, a:active, a:hover, a:visited {
-  color: #000099; }
+  color: #AB2F02; }
 
 #feed {
   margin-bottom: 15px; }
 
 a, a:active {
-  color: #000099; }
+  color: #AB2F02; }
+
+a:hover {
+  color: #999999; }
 
 a:visited {
-  color: #000099; }
+  color: #AB2F02; }
+
+input {
+  padding: 10px;
+  border: 1px solid #cccccc;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px; }
 
 img {
   max-width: 400px;
