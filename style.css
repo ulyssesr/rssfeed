@@ -19,19 +19,19 @@ body {
       padding: 10px; } }
 
 #feed a, a:active, a:hover, a:visited {
-  color: #AB2F02; }
+  color: #4B0082; }
 
 #feed {
   margin-bottom: 15px; }
 
 a, a:active {
-  color: #AB2F02; }
+  color: #4B0082; }
 
 a:hover {
-  color: #999999; }
+  color: #800080; }
 
 a:visited {
-  color: #AB2F02; }
+  color: #4B0082; }
 
 input {
   padding: 10px;
